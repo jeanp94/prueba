@@ -21,3 +21,13 @@
 
 -Web modelos
 ## https://onepagelove.com/
+
+
+https://tympanus.net/Development/HoverEffectIdeas/index2.html
+https://tympanus.net/Tutorials/ShapeHoverEffectSVG/
+https://tympanus.net/Tutorials/CaptionHoverEffects/index7.html
+https://tympanus.net/Development/AnimatedSVGIcons/
+https://tympanus.net/Development/IconHoverEffects/
+https://tympanus.net/Development/AnimatedCheckboxes/
+https://tympanus.net/Tutorials/AnimatedBorderMenus/index2.html
+https://tympanus.net/Development/CreativeLinkEffects/
