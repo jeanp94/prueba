@@ -50,3 +50,6 @@ https://www.flaticon.es/packs/discussion-11
 https://html5up.net/
 
 https://designmodo.com/
+----elearning
+https://chamilo.org/es/
+https://canvas.instructure.com/login/canvas
