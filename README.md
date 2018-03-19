@@ -58,3 +58,4 @@ https://toky.co/es/phone-platform?utm_source=Click2Call&utm_campaign=Widget-Redi
 ## https://www.mapbox.com/showcase/
 ## https://openlayers.org/
 ## https://cesiumjs.org
+## https://tympanus.net/Development/TextInputEffects/index2.html
