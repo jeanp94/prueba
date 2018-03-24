@@ -68,3 +68,6 @@ Iconos colores
 
 ## https://github.com/tipoqueno/awesome-ui
 
+
+## Pendiente para Aprender
+## https://github.com/miziomon/awesome-wordpress#themes-and-framework
