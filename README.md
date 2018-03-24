@@ -59,3 +59,12 @@ https://toky.co/es/phone-platform?utm_source=Click2Call&utm_campaign=Widget-Redi
 ## https://openlayers.org/
 ## https://cesiumjs.org
 ## https://tympanus.net/Development/TextInputEffects/index2.html
+
+
+## http://twemoji.maxcdn.com/2/test/preview.html
+## https://unsplash.com/
+Iconos colores
+## https://www.materialui.co/socialcolors
+
+## https://github.com/tipoqueno/awesome-ui
+
