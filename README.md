@@ -78,3 +78,4 @@ select
 ## https://tympanus.net/Tutorials/CircleHoverEffects/index4.html
 https://www.ecommwar.com/
 https://www.resource-generator.com/
+https://codyhouse.co/library?page=8&show=all
