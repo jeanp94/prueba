@@ -80,3 +80,4 @@ select
 ## https://www.resource-generator.com/
 ## https://codyhouse.co/library?page=8&show=all
 ## https://two.js.org/examples/
+https://www.hongkiat.com/blog/hamburger-menu-animations/
