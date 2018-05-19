@@ -91,3 +91,4 @@ https://www.youtube.com/watch?v=gV542tUmAVQ
 #color
 http://www.colourlovers.com/palette/1910630/t_e_x_t_i_l_e
 http://colorsupplyyy.com/app/
+https://bennettfeely.com/clippy/
