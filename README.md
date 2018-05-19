@@ -21,7 +21,7 @@
 
 -Web modelos
 ## https://onepagelove.com/
-
+https://github.com/micromata/awesome-css-learning
 https://codepen.io/antho-fsy/pen/wJqWKj
 ## https://tympanus.net/Development/HoverEffectIdeas/index2.html
 ## https://tympanus.net/Tutorials/ShapeHoverEffectSVG/
