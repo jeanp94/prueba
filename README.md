@@ -97,3 +97,17 @@ https://www.youtube.com/watch?v=gV542tUmAVQ
 http://www.colourlovers.com/palette/1910630/t_e_x_t_i_l_e
 http://colorsupplyyy.com/app/
 https://bennettfeely.com/clippy/
+
+
+declarativo
+hechos y reglas
+para determinar si es v o f
+procedurales(Procedimientos)
+imperativo
+c++
+java
+declarar hasta lo que hace el algoritmo
+Hecho en prolog
+progenitor() relacion
+argumento laura,damian
+progenitor(laura,damian)
