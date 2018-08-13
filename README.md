@@ -97,7 +97,8 @@ https://www.youtube.com/watch?v=gV542tUmAVQ
 http://www.colourlovers.com/palette/1910630/t_e_x_t_i_l_e
 http://colorsupplyyy.com/app/
 https://bennettfeely.com/clippy/
-
+#ideas - svg
+https://bashooka.com/coding/svg-animation-ideas-2017/
 
 declarativo
 hechos y reglas
