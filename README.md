@@ -99,7 +99,7 @@ http://colorsupplyyy.com/app/
 https://bennettfeely.com/clippy/
 #ideas - svg
 https://bashooka.com/coding/svg-animation-ideas-2017/
-
+https://underscores.me/
 declarativo
 hechos y reglas
 para determinar si es v o f
