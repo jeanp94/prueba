@@ -100,6 +100,7 @@ https://bennettfeely.com/clippy/
 #ideas - svg
 https://bashooka.com/coding/svg-animation-ideas-2017/
 https://underscores.me/
+https://andres-dev.com/utilizando-la-clase-wpdb-de-wordpress/
 declarativo
 hechos y reglas
 para determinar si es v o f
