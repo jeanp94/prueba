@@ -101,6 +101,7 @@ https://bennettfeely.com/clippy/
 https://bashooka.com/coding/svg-animation-ideas-2017/
 https://underscores.me/
 https://andres-dev.com/utilizando-la-clase-wpdb-de-wordpress/
+https://neliosoftware.com/es/blog/tutorial-aplicacion-web-usando-wordpress/
 declarativo
 hechos y reglas
 para determinar si es v o f
