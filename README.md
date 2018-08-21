@@ -103,6 +103,7 @@ https://underscores.me/
 https://andres-dev.com/utilizando-la-clase-wpdb-de-wordpress/
 https://neliosoftware.com/es/blog/tutorial-aplicacion-web-usando-wordpress/
 https://dev.to/lewismenelaws/how-to-create-beautiful-svg-animations-easily-ame
+https://codemyui.com/tag/navigation-menu/page/2/
 declarativo
 hechos y reglas
 para determinar si es v o f
