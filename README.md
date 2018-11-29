@@ -117,3 +117,6 @@ Hecho en prolog
 progenitor() relacion
 argumento laura,damian
 progenitor(laura,damian)
+
+
+#https://codepen.io/jcoulterdesign/pen/ZpoZyx
